@@ -2,11 +2,11 @@
 title: "SDS 192 Assignment"
 subtitle: "SDS 192"
 author: 
-- name: Jericho Lawson
+- name: Aria  Asevedo
   affiliation: Smith College
-- name: Author Two
+- name: Zenobia Calhoun
   affiliation: Smith College
-- name: Author Three
+- name: Cassia Lee
   affiliation: Smith College
 date: "`r format(Sys.Date(), '%B %e, %Y')`"
 output: 
