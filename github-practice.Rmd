@@ -44,5 +44,9 @@ dim(pioneer_valley_2013)
 
 ```{r}
 #Check the column names for pioneer_valley_2013.
+<<<<<<< HEAD
 nrow(pioneer_valley_2013)
+=======
+names(pioneer_valley_2013)
+>>>>>>> 200f8a60f16ce98e0c0278d95bb326d2003d02ba
 ```
