@@ -4,7 +4,7 @@ subtitle: "SDS 192"
 author: 
 - name: Aria  Asevedo
   affiliation: Smith College
-- name: Author Two
+- name: Zenobia Calhoun
   affiliation: Smith College
 - name: Cassia Lee
   affiliation: Smith College
