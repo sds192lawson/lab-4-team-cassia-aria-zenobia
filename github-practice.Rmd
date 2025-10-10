@@ -49,4 +49,6 @@ nrow(pioneer_valley_2013)
 =======
 names(pioneer_valley_2013)
 >>>>>>> 200f8a60f16ce98e0c0278d95bb326d2003d02ba
+
+#Grader: Here colnames() should be replaced with ncol(). Also, after fixing the merge conflicts, the unwanted lines should be cleaned.
 ```
